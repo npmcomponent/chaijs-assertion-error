@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [chaijs/assertion-error](http://github.com/chaijs/assertion-error). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/chaijs-assertion-error`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # AssertionError [![Build Status](https://travis-ci.org/chaijs/assertion-error.png?branch=master)](https://travis-ci.org/chaijs/assertion-error)
 
 > Error constructor for test and validation frameworks that implements standardized AssertionError specification.
